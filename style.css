@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+.container {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+
+  color: #000;
+  opacity: 1;
+  top: 50%;
+
+  left: 25%;
+}
